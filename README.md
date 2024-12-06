@@ -1,8 +1,5 @@
 ## Welcome! I'm Edd Thomas, nice to see you here 👋
 
-<!--
-**eddisdead/eddisdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on my 2nd year Asset Production project at NUA: Passageway!
 - 🌱 I’m currently learning How to use GitHub and how to build Shaders!
 - 👯 I’m looking to collaborate on Games Jams 🕹
